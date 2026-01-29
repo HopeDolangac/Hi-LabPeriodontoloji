@@ -7,7 +7,8 @@ Key Features
 * Class Diversity: 18 morphological classes for each staining method.
 * High-Quality Data: Captures intricate details of sperm samples.
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/812bd217-11f2-4464-b769-52a9051e81fe" />
+<img  alt="image" src="https://github.com/user-attachments/assets/dbd11b91-f9b4-4a0b-a80a-e7ee15b7180c" width="50%"/>
+
 
 ## 🔬 Applications
 This dataset can be utilized for:
