@@ -1,11 +1,11 @@
 # Hi-LabPeriodontoloji
 ## 📖 Overview
-The Hi-LabPeriodontoloji dataset provides high-quality, labeled data for researchers and practitioners working on periodontitis detection and classification tasks. 
+The Hi-LabPeriodontoloji dataset provides high-quality, labeled data for researchers and practitioners working on periodontal disease (Gingivitis and Periodontitis) detection and classification tasks. 
 
 Key Features
-* Staining Methods: Includes Beslab HistoPlus and GBL staining techniques.
-* Class Diversity: 18 morphological classes for each staining method.
-* High-Quality Data: Captures intricate details of sperm samples.
+* Class Diversity: 4 periodontitis stage classes and 3 disease classes.
+* High-Quality Data: Panoramic radiograph images.
+* Clinical Attachment Loss: Includes mobility, furcation, implant, bleeding on probing, plaque, gingival margin and probing depth information.
 
 <img  alt="image" src="https://github.com/user-attachments/assets/dbd11b91-f9b4-4a0b-a80a-e7ee15b7180c" width="50%"/>
 
