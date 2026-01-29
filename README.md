@@ -13,63 +13,42 @@ Class Diversity: 18 morphological classes for each staining method.
 High-Quality Data: Captures intricate details of sperm samples.
 
 
-🔬 Applications
+## 🔬 Applications
 This dataset can be utilized for:
 
-Diagnosis Detection: Identify and classify periodontal diseases.
-Staging Classification: Identify and classify periodontits stages .
-Machine Learning Models: Train and evaluate classification models.
-Benchmarking: Compare results across different algorithms.
+*Diagnosis Detection: Identify and classify periodontal diseases.
+*Staging Classification: Identify and classify periodontits stages .
+*Machine Learning Models: Train and evaluate classification models.
+*Benchmarking: Compare results across different algorithms.
 
 
-📂 Dataset Structure
-Folder Organization
-images/: Images in files for healty, gingivitis and periodontitis classfication and periodontitis staging. 
-Periodontal_chart: Tabular clinical attachment loss data.
-
-
-
-Class Labels
-Staging: 
-class 0: moderate, class 1: severe
-Teşhis: 
-class 0: sağlıklı, class 1: gingivitis, class 2: periodontitis
-
-⚠️ Usage Terms
-If you use the HilabspermMorpho dataset in your research, please let us now
-
-📥 Download
-Since the full dataset is currently utilized in ongoing study and contains extensive data that requires further analysis, the complete dataset cannot be made publicly available at this moment. Dataset link: https://drive.google.com/drive/folders/16tVP_Zm9yBJvZcbV9gA_lh7sxR6RcRuE?usp=drive_link
-
-
-
-
-
-## 📂 Veri Yapısı (Dataset Structure)
+## 📂 Dataset Structure
 
 Veriler aşağıdaki klasör düzenine göre organize edilmiştir:
 
 | Klasör / Dosya | Açıklama |
 | :--- | :--- |
-| `images/` | Sağlıklı, gingivitis ve periodontitis görüntüleri. |
-| `Periodontal_chart/` | Klinik ataşman kaybı (CAL) verilerini içeren tablolar. |
+| `images/` |Images of Healthy, Gingivitis, and Periodontitis. Also, periodontitis stages.  |
+| `Periodontal_chart/` | Tabular data containing Clinical Attachment Loss (CAL) measurements.|
 
-### 🏷️ Sınıf Etiketleri (Class Labels)
+### 🏷️Class Labels
 
-**1. Teşhis (Diagnosis):**
-* `Class 0`: Sağlıklı
+**1.Diagnosis:**
+* `Class 0`: Healthy
 * `Class 1`: Gingivitis
 * `Class 2`: Periodontitis
 
-**2. Evreleme (Staging):**
-* `Class 0`: Moderate (Orta)
-* `Class 1`: Severe (Şiddetli)
+**2. Staging:**
+* `Class 0`: Moderate 
+* `Class 1`: Severe 
 
 ---
 
-## ⚠️ Kullanım Şartları
-Eğer bu veri kümesini araştırmalarınızda veya projelerinizde kullanırsanız, lütfen tarafımıza bildirin veya ilgili çalışmaya atıfta bulunun.
+## ⚠️ Usage Terms
+If you use the HilabspermMorpho dataset in your research, please let us now
+
 
 ---
 
-## 📥 İndirme
+## 📥 Download
+Since the full dataset is currently utilized in ongoing study and contains extensive data that requires further analysis, the complete dataset cannot be made publicly available at this moment. Dataset link: https://drive.google.com/drive/folders/16tVP_Zm9yBJvZcbV9gA_lh7sxR6RcRuE?usp=drive_link
