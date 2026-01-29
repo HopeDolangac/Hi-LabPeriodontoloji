@@ -44,7 +44,7 @@ Veriler aşağıdaki klasör düzenine göre organize edilmiştir:
 ---
 
 ## ⚠️ Usage Terms
-If you use the HilabspermMorpho dataset in your research, please let us now.
+If you use the Hi-LabPeriodontoloji dataset in your research, please let us now.
 
 
 ---
