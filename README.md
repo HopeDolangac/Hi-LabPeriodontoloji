@@ -1,4 +1,6 @@
 # Hi-LabPeriodontoloji
+##🧬 HiLabSpermMorpho Dataset
+Hi-LabPeriodontoloji is a unique dataset containing images of panoramic radiograph samples and clinical attachment loss data. 
 ## 📖 Overview
 The Hi-LabPeriodontoloji dataset provides high-quality, labeled data for researchers and practitioners working on periodontal disease (Gingivitis and Periodontitis) detection and classification tasks. 
 
