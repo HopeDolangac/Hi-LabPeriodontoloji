@@ -1,6 +1,6 @@
 # Hi-LabPeriodontoloji
 ## 🦷 Hi-LabPeriodontoloji Dataset
-Hi-LabPeriodontoloji is a unique dataset containing images of panoramic radiograph samples and clinical attachment loss data. 
+Hi-LabPeriodontoloji is a unique dataset containing images of panoramic radiograph samples and clinical attachment loss data. The data is obtained from Faculty of Dentistry, Hatay Mustafa Kemal University.
 ## 📖 Overview
 The Hi-LabPeriodontoloji dataset provides high-quality, labeled data for researchers and practitioners working on periodontal disease (Gingivitis and Periodontitis) detection and classification tasks. 
 
