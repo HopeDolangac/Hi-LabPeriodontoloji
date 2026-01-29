@@ -1,16 +1,11 @@
 # Hi-LabPeriodontoloji
-🧬 HiLabSpermMorpho Dataset
-image
-
-HilabspermMorpho is a unique dataset containing images of sperm samples stained using Beslab HistoPlus and GBL staining methods. Each staining technique categorizes the samples into 18 distinct classes, facilitating the detection and classification of sperm abnormalities.
-
-
+##📖 Overview
 The HilabspermMorpho dataset provides high-quality, labeled data for researchers and practitioners working on sperm abnormality detection and classification tasks. By leveraging advanced staining techniques, this dataset ensures accurate representation across various morphological classes.
 
-Key Features
-Staining Methods: Includes Beslab HistoPlus and GBL staining techniques.
-Class Diversity: 18 morphological classes for each staining method.
-High-Quality Data: Captures intricate details of sperm samples.
+#Key Features
+* Staining Methods: Includes Beslab HistoPlus and GBL staining techniques.
+* Class Diversity: 18 morphological classes for each staining method.
+* High-Quality Data: Captures intricate details of sperm samples.
 
 
 ## 🔬 Applications
