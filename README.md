@@ -16,10 +16,10 @@ High-Quality Data: Captures intricate details of sperm samples.
 ## 🔬 Applications
 This dataset can be utilized for:
 
-*Diagnosis Detection: Identify and classify periodontal diseases.
-*Staging Classification: Identify and classify periodontits stages .
-*Machine Learning Models: Train and evaluate classification models.
-*Benchmarking: Compare results across different algorithms.
+* Diagnosis Detection: Identify and classify periodontal diseases.
+* Staging Classification: Identify and classify periodontits stages .
+* Machine Learning Models: Train and evaluate classification models.
+* Benchmarking: Compare results across different algorithms.
 
 
 ## 📂 Dataset Structure
