@@ -1,12 +1,13 @@
 # Hi-LabPeriodontoloji
-##📖 Overview
-The HilabspermMorpho dataset provides high-quality, labeled data for researchers and practitioners working on sperm abnormality detection and classification tasks. By leveraging advanced staining techniques, this dataset ensures accurate representation across various morphological classes.
+## 📖 Overview
+The Hi-LabPeriodontoloji dataset provides high-quality, labeled data for researchers and practitioners working on periodontitis detection and classification tasks. 
 
-#Key Features
+Key Features
 * Staining Methods: Includes Beslab HistoPlus and GBL staining techniques.
 * Class Diversity: 18 morphological classes for each staining method.
 * High-Quality Data: Captures intricate details of sperm samples.
 
+<img width="995" height="585" alt="image" src="https://github.com/user-attachments/assets/812bd217-11f2-4464-b769-52a9051e81fe" />
 
 ## 🔬 Applications
 This dataset can be utilized for:
